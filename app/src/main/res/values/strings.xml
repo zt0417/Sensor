@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorGame</string>
+
+    <string name="sensor_info">传感器的详细信息：</string>
+    <string name="x_info">x轴上的加速度为：</string>
+    <string name="y_info">y轴上的加速度为：</string>
+    <string name="z_info">z轴上的加速度为：</string>
+</resources>
