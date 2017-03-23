@@ -21,12 +21,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_fa9fe3d04ecd63c2f69f89d7f8a9d27ab108ea77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Android\SensorGame\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
         <dex dex="C:\Android\SensorGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c6e47f69297028105d3854d38a916269ba9a2135\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_22ce9e2c19ef69b87c37f6c3a30294e40fb30700\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,12 +57,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ad5f230c89e5a47a21d329ae07214f5b560b0d82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Android\SensorGame\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
         <dex dex="C:\Android\SensorGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3090c7f1aa3017ee6ffb698c14947aa7741fbee5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9e4340fb860cb462e9831b4fa18ae59ca4217186\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,12 +93,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_8c05affde70bcc679b9c1481b79bff994b5fe4ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_cf41fca58d6144b06e0d04d7fe43d5e0877e9222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Android\SensorGame\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
         <dex dex="C:\Android\SensorGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_833c9a5f25d4e2b9bf95565713de01fdcef0271b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_89ec5cbd84deb49e0c2e474a13001c16a420e9b6\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,6 +147,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c35001dc697149e1f4ccb53275cc4d4f0ce3862e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_66265ba7b3031d4c9d3cdb6670cf849924bd320e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Android\SensorGame\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -93,12 +174,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f24b9fa221ae7fc81fddd52fc6ca2a439019b9ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f9dee3f8ec3bcd9a82504b3d77d136a4de579d3">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_45a2e3f4a29d47f5ea8c60ecc30139106ea6edc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f9128ddc3f962b8ca654a1bcf85c1c1f5dbfc765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="35eae4f4c53b4fe747f0c50ad6bf18faddf1fa2d">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8f4479a4b095272672118b5e95de698c96be09fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Android\SensorGame\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
         <dex dex="C:\Android\SensorGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ddab00924ec5c260cfa5286fb831111541cbaf7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_47bc2988ee6b91dfa29bfd68aaec3ccf5ee68519\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,6 +243,15 @@
         revision="25.0.2"
         sha1="b35157a86f922efee1042ae0635da5aac59b30a2">
         <dex dex="C:\Android\SensorGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c19e52a42dfd221ad607373cd54f7bcac7e32bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5d040912bcef6a5f16112920e61f0fbd88cd0b8c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -153,6 +288,15 @@
         revision="25.0.2"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
         <dex dex="C:\Android\SensorGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b4a7bd86a9a8c0372bb3c3905f55cdb4c3d96479\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Android\Sensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_505d165db7d03f53f133e95298bc14dee2f4de49\classes.dex" />
     </item>
 
 </items>
